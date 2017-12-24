@@ -7,7 +7,7 @@ aaaaaaaaaaaaaaaaaaan gi
 bbbbbbbbbbb Dang o dau
 dang di dau
 can gi khong
-<<<<<<< HEAD
+
 aaaaaaaaaaaaa
 aaaaaaaa
 a
@@ -16,7 +16,7 @@ aaaaaaaaaaaaad
 aaaaaaaaf
 aaaaaaaaaaaf
 aaaaaaaaaa
-=======
+
 How are you today
 Good night
 Abc 
@@ -25,5 +25,5 @@ CDB
 
 Abc2 - chen
 
->>>>>>> 8bc707b00b1350f902f9581516f1fb014981c900
+
 
