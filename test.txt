@@ -1,3 +1,5 @@
+hello1
+Hekllo2
 Hello
 heloklok
 Co chuyen gi
@@ -7,5 +9,9 @@ can gi khong
 How are you today
 Good night
 Abc 
+
 CDB
+
+Abc2 - chen
+
 
